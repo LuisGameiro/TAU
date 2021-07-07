@@ -1,0 +1,7 @@
+<root>
+    <item name='io.appium.java_client.DefaultGenericMobileDriver T findElementByName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
